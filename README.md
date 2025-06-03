@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hi, I'm Snehal
 
-<!--
-**snehal1219901/snehal1219901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Cloud Architect | AI & ML Practitioner | Hugging Face Enthusiast
 
-Here are some ideas to get you started:
+I build GenAI applications using Hugging Face Transformers, Gradio, and Datasets. Passionate about open-source AI and sharing knowledge with the community.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 Projects
+
+
+## 🌐 Let's Connect
+- LinkedIn: https://www.linkedin.com/in/snehal-bandekar/
+- Medium : https://medium.com/@snehal1219901
+
+⚡ Currently learning: Just getting started with Hugging Face. Focused on learning how to build with Transformers, deploy quick demos on Spaces, and gradually move into fine-tuning and retrieval-augmented generation (RAG).
