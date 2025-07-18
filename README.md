@@ -4,9 +4,6 @@
 
 I build GenAI applications using Hugging Face Transformers, Gradio, and Datasets. Passionate about open-source AI and sharing knowledge with the community.
 
-## 🔭 Projects
-
-
 ## 🌐 Let's Connect
 - LinkedIn: https://www.linkedin.com/in/snehal-bandekar/
 - Medium : https://medium.com/@snehal1219901
